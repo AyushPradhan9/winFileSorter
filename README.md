@@ -2,7 +2,7 @@
 Window's File Sorter (winFileSorter) is an automation python (GUI/Tkinter) program for sorting files based on their extension into appropriate folders. It is developed for people having clumsy desktop for a more cleaner and efficient usage of resources. It is divided into two types of sorting - Dynamic and Static sorting and it also generates a listFiles.txt file at the targeted folder to give an overview over the sorted files.
 ## Getting Started
 The program (winFileSorter.exe) is placed in the folder that is to be sorted and is then executed. The file then show two options whether to sort the current files placed in the same folder or sort the upcoming files that will be updated in the folder.
-## Updates
+## ChangeLog
 ### 0.1
 - Now the path of files to be sorted in a folder can be given in the application.
 - Timestap is also saved in the listFiles.txt file to keep record.
