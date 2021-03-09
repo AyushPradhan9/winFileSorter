@@ -3,7 +3,7 @@ Window's File Sorter (winFileSorter) is an automation python (GUI/Tkinter) progr
 ## Getting Started
 The program (winFileSorter.exe) is placed in the folder that is to be sorted and is then executed. The file then show two options whether to sort the current files placed in the same folder or sort the upcoming files that will be updated in the folder.
 ## ChangeLog
-### 0.1
+### 1.0
 - Now the path of files to be sorted in a folder can be given in the application.
 - Timestap is also saved in the listFiles.txt file to keep record.
 ## Functionalities
